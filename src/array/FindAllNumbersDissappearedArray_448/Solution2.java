@@ -13,7 +13,7 @@ public class Solution2 {
         int[] l = new int[n];
 
         for (int num : nums) {
-            l[num - 1] = n;
+            l[num - 1] = num;
         }
 
         List<Integer> res = new ArrayList<>();
