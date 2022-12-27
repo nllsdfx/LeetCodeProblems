@@ -1,4 +1,4 @@
-package array.FindAllNumbersDissappearedArray_448;
+package collections.array.FindAllNumbersDissappearedArray_448;
 
 import java.util.Arrays;
 
